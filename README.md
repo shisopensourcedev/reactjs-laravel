@@ -1,13 +1,13 @@
-# crud-laravel-react
+# crud-react-laravel
 crud operations
+this is a react and laravel curd project.
 
-# CRUD
+## Installation 
 
-this is a sample project.
+Please download the project.
 
-## Installation Backend
-
-Please download the "crud" folder then go to the backend folder and open the terminal to run the project please use this comment
+# Backend
+then go to the backend folder and open the terminal to run the project please use this comment
 
 ```bash
 composer update
@@ -24,7 +24,7 @@ php artisan migrate
 ```
 note: please install "composer", "xampp" / "lampp" software for the run Backend
 
-## Installation Frontend
+# Frontend
 
 go to the Frontend folder and open the terminal to run the project please use this comment
 
